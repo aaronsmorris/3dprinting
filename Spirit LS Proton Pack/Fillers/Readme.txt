@@ -1,6 +1,7 @@
 **LICENSING NOTICE**
 
 You may download and print these files under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
 This license was selected to give people the ability to make these items for yourself and friends. 
 
